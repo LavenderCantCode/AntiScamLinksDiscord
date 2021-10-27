@@ -1,0 +1,24 @@
+{
+  "name": "antiscamlinksdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LavenderCantCode/AntiScamLinksDiscord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LavenderCantCode/AntiScamLinksDiscord/issues"
+  },
+  "homepage": "https://github.com/LavenderCantCode/AntiScamLinksDiscord#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
